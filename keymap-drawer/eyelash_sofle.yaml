@@ -117,7 +117,7 @@ layers:
   - PAUSE BREAK
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
-  - $$mdi:arrow-up-bold$$
+  - $$mdi:arrow-right-bold$$
   - {t: LAYER0, h: '$$mdi:gesture-tap-hold$$', type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
